@@ -56,7 +56,7 @@ def screen_ledger(df: pd.DataFrame, amount_col: str = "amount",
             dates = pd.to_datetime(grp[date_col]).dt.date.astype(str).tolist()
             findings.append(Finding(
                 kind="duplicate", entity=str(entity), severity="medium",
-                detail=f"{amount:.2f} paid {len(grp)}x within 14 days ({', '.join(dates)})",
+                detail=f"{amount:.2f} paid {len(grp)}x in close succession ({', '.join(dates)})",
                 evidence={"amount": float(amount), "dates": dates}))
 
     # 4) Isolation Forest outliers
