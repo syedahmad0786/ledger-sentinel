@@ -22,19 +22,22 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+sys.path.insert(0, str(Path(__file__).parent))
+from aixcel_brand import brand, footer
+
 from ledgersentinel.benford import EXPECTED_F1, benford_first_digit, first_digits
 from ledgersentinel.report import findings_frame, screen_ledger
 
 st.set_page_config(page_title="ledger-sentinel — fraud screening demo",
                    page_icon="🔎", layout="wide")
-
-st.title("🔎 ledger-sentinel")
-st.markdown(
-    "**Upload an expense/AP ledger → get fraud-pattern findings in seconds.** "
-    "Detection is deterministic forensic-accounting math — Benford's Law, "
-    "approval-limit clustering, duplicate payments, Isolation Forest — "
-    "so this demo needs no API keys and sends your data nowhere. "
-    "[Code & paper trail](https://github.com/syedahmad0786/ledger-sentinel)")
+brand("🔎 ledger-sentinel",
+      "**Upload an expense/AP ledger → get fraud-pattern findings in seconds.** "
+      "Detection is deterministic forensic-accounting math — Benford's Law, "
+      "approval-limit clustering, duplicate payments, Isolation Forest — "
+      "so this demo needs no API keys and sends your data nowhere. "
+      "[Code & paper trail](https://github.com/syedahmad0786/ledger-sentinel)",
+      chips=["Benford/Nigrini", "Isolation Forest 2008", "FinFraud-LLM 2026",
+             "no API keys", "data stays local"])
 
 left, right = st.columns([1, 2], gap="large")
 
@@ -112,8 +115,5 @@ if os.getenv("GROQ_API_KEY") or "GROQ_API_KEY" in st.secrets:
         with st.spinner("Writing the narrative…"):
             st.markdown(explain(findings))
 
-st.divider()
-st.caption("Built by [Ahmad Bukhari](https://github.com/syedahmad0786) — "
-           "math detects, LLM explains. Why not LLM detection? FinFraud-LLM "
-           "(IEEE 2026) measured ~35% recall for LLMs vs tree baselines on "
-           "fraud — so the LLM is kept where it's strong: explanation.")
+footer("math detects, LLM explains — FinFraud-LLM (IEEE 2026) measured "
+       "~35% LLM recall on fraud, so the LLM only writes prose here")
