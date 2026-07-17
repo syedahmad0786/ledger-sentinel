@@ -1,0 +1,1102 @@
+date,entity,amount,memo
+2025-07-02,CloudServe,33.5,regular
+2025-09-30,CaterCo,265.23,regular
+2026-03-19,j.smith,242.16,regular
+2025-11-19,j.doe,487.09,expense claim
+2025-08-06,CaterCo,105.89,regular
+2025-10-22,CloudServe,15.16,regular
+2025-06-03,CaterCo,132.15,regular
+2026-04-16,m.khan,511.35,regular
+2025-05-14,Apex Supplies,231.7,invoice
+2025-06-20,s.lee,72.57,regular
+2025-09-26,CloudServe,39.82,regular
+2025-06-17,j.smith,19.54,regular
+2025-06-26,s.lee,24.01,regular
+2026-03-13,m.khan,35.66,regular
+2025-11-04,s.lee,17.64,regular
+2026-04-08,m.khan,3.5,regular
+2025-10-17,AdWorks,20.77,regular
+2026-04-13,CloudServe,31.82,regular
+2025-11-27,AdWorks,56.44,regular
+2025-05-02,m.khan,78.8,regular
+2025-06-06,m.khan,75.87,regular
+2025-06-17,OfficeMart,76.09,regular
+2025-06-25,CaterCo,42.15,regular
+2025-12-05,m.khan,56.73,regular
+2025-08-01,m.khan,97.33,regular
+2026-01-07,Apex Supplies,327.2,invoice
+2025-06-18,FleetFuel,43.18,regular
+2025-07-09,CaterCo,169.28,regular
+2025-09-12,s.lee,164.13,regular
+2026-05-27,s.lee,776.79,regular
+2026-04-17,OfficeMart,85.39,regular
+2026-03-17,AdWorks,404.34,regular
+2025-06-17,AdWorks,163.28,regular
+2026-06-07,Apex Supplies,794.92,invoice
+2025-10-10,FleetFuel,1885.09,regular
+2026-03-25,Apex Supplies,285.51,invoice
+2026-06-19,Apex Supplies,175.93,invoice
+2025-07-03,Apex Supplies,956.33,invoice
+2025-09-23,CaterCo,40.93,regular
+2026-04-22,FleetFuel,130.38,regular
+2026-01-10,Apex Supplies,892.9,invoice
+2026-05-27,j.smith,15.67,regular
+2026-01-05,Apex Supplies,452.84,invoice
+2025-11-20,j.smith,526.54,regular
+2025-06-26,m.khan,265.7,regular
+2026-03-06,FleetFuel,18.05,regular
+2025-08-29,CloudServe,53.78,regular
+2026-05-13,j.smith,289.7,regular
+2026-06-23,m.khan,162.8,regular
+2026-01-24,Apex Supplies,953.1,invoice
+2025-10-02,AdWorks,39.0,regular
+2026-01-26,s.lee,4.92,regular
+2025-08-25,j.smith,228.11,regular
+2025-12-24,FleetFuel,44.67,regular
+2026-05-29,s.lee,17.5,regular
+2025-09-12,m.khan,14.09,regular
+2025-09-04,FleetFuel,75.72,regular
+2025-11-03,OfficeMart,35.98,regular
+2025-06-11,OfficeMart,47.93,regular
+2025-10-23,CaterCo,461.46,regular
+2025-08-03,Apex Supplies,537.77,invoice
+2026-03-20,s.lee,6.28,regular
+2025-07-02,FleetFuel,18.37,regular
+2025-11-17,CloudServe,25.26,regular
+2025-07-17,Apex Supplies,777.07,invoice
+2025-09-18,s.lee,88.68,regular
+2025-07-22,CaterCo,295.71,regular
+2025-10-30,m.khan,71.18,regular
+2025-06-12,Apex Supplies,447.85,invoice
+2025-10-31,j.smith,177.33,regular
+2026-05-13,FleetFuel,78.52,regular
+2025-05-22,OfficeMart,12.14,regular
+2025-10-30,m.khan,12.76,regular
+2025-12-05,m.khan,53.66,regular
+2025-07-08,FleetFuel,119.64,regular
+2026-01-08,CaterCo,31.41,regular
+2025-09-01,j.doe,489.26,expense claim
+2025-05-02,CaterCo,98.53,regular
+2025-10-31,s.lee,3.5,regular
+2025-12-05,FleetFuel,127.58,regular
+2026-04-09,CloudServe,904.38,regular
+2026-03-06,CaterCo,15.15,regular
+2025-11-27,s.lee,3.5,regular
+2025-07-14,CloudServe,214.89,regular
+2025-10-01,OfficeMart,121.38,regular
+2026-01-23,m.khan,66.51,regular
+2025-11-19,Apex Supplies,713.04,invoice
+2026-05-22,AdWorks,42.66,regular
+2026-03-31,j.smith,202.94,regular
+2026-05-07,OfficeMart,4.72,regular
+2025-10-17,CaterCo,160.1,regular
+2025-06-02,s.lee,217.82,regular
+2025-07-02,OfficeMart,14.87,regular
+2025-11-28,OfficeMart,9.63,regular
+2026-03-03,AdWorks,3.5,regular
+2026-02-28,j.doe,12.81,expense claim
+2025-05-23,s.lee,89.52,regular
+2025-09-12,m.khan,69.35,regular
+2025-11-28,m.khan,199.4,regular
+2025-10-31,j.smith,524.82,regular
+2025-07-07,j.smith,134.86,regular
+2025-06-11,CaterCo,3.5,regular
+2025-11-07,s.lee,114.88,regular
+2026-04-23,AdWorks,17.52,regular
+2026-04-02,CloudServe,9.76,regular
+2026-06-11,CaterCo,11.56,regular
+2025-10-16,Apex Supplies,453.26,invoice
+2026-05-05,Apex Supplies,440.85,invoice
+2025-12-24,Apex Supplies,470.34,invoice
+2025-09-05,j.smith,313.11,regular
+2025-05-16,Apex Supplies,692.79,invoice
+2025-05-20,OfficeMart,316.76,regular
+2026-04-17,m.khan,53.01,regular
+2026-06-05,j.smith,10.63,regular
+2025-11-26,OfficeMart,140.5,regular
+2026-03-24,s.lee,13.75,regular
+2025-06-05,OfficeMart,98.44,regular
+2026-02-05,Apex Supplies,310.65,invoice
+2025-12-15,OfficeMart,33.1,regular
+2025-12-23,OfficeMart,53.09,regular
+2025-09-10,j.doe,13.93,expense claim
+2026-03-08,m.khan,9875.0,wire
+2025-07-30,AdWorks,3.5,regular
+2025-12-05,CaterCo,351.67,regular
+2025-08-21,CloudServe,1314.15,regular
+2025-07-07,j.smith,37.99,regular
+2026-04-01,m.khan,527.61,regular
+2026-03-12,j.smith,43.66,regular
+2025-10-03,j.smith,322.16,regular
+2025-06-09,j.smith,627.97,regular
+2025-06-12,AdWorks,28.23,regular
+2026-04-16,CaterCo,65.14,regular
+2025-11-07,CloudServe,24.86,regular
+2026-05-21,Apex Supplies,288.27,invoice
+2025-10-15,j.doe,480.61,expense claim
+2025-11-28,m.khan,11.1,regular
+2026-06-03,CaterCo,603.47,regular
+2025-05-01,s.lee,86.19,regular
+2026-06-18,Apex Supplies,117.22,invoice
+2025-05-01,FleetFuel,22.91,regular
+2025-12-04,CloudServe,33.76,regular
+2025-07-17,CloudServe,145.16,regular
+2025-08-07,m.khan,14.22,regular
+2025-07-02,AdWorks,95.33,regular
+2025-11-21,j.smith,73.77,regular
+2025-07-31,Apex Supplies,514.58,invoice
+2025-06-26,CaterCo,217.49,regular
+2026-01-23,CloudServe,225.88,regular
+2026-03-31,CloudServe,47.89,regular
+2025-08-01,s.lee,3.5,regular
+2026-02-20,CaterCo,1240.0,event catering
+2026-04-02,OfficeMart,172.51,regular
+2025-06-05,FleetFuel,16.13,regular
+2025-10-23,AdWorks,41.27,regular
+2025-08-27,CaterCo,52.85,regular
+2026-05-21,j.smith,8.16,regular
+2026-05-20,s.lee,47.3,regular
+2025-07-09,CaterCo,5.7,regular
+2025-07-17,j.smith,474.21,regular
+2025-05-03,Apex Supplies,378.39,invoice
+2026-02-06,CloudServe,27.67,regular
+2026-06-19,CaterCo,960.14,regular
+2025-08-26,FleetFuel,14.16,regular
+2025-07-10,CloudServe,249.6,regular
+2025-05-05,s.lee,296.6,regular
+2026-01-29,s.lee,46.83,regular
+2025-09-29,CloudServe,48.17,regular
+2026-02-09,OfficeMart,11.39,regular
+2025-11-28,CaterCo,40.18,regular
+2025-10-28,s.lee,59.03,regular
+2025-10-30,m.khan,36.07,regular
+2025-12-25,m.khan,14.57,regular
+2026-04-15,OfficeMart,92.3,regular
+2026-01-19,FleetFuel,80.12,regular
+2025-05-22,Apex Supplies,512.01,invoice
+2025-08-07,j.smith,216.22,regular
+2026-02-26,m.khan,79.76,regular
+2025-11-07,FleetFuel,27.24,regular
+2026-06-08,s.lee,60.72,regular
+2025-11-28,Apex Supplies,990.35,invoice
+2026-03-31,CloudServe,157.96,regular
+2025-07-18,CloudServe,124.83,regular
+2026-03-24,j.smith,99.96,regular
+2025-07-25,CloudServe,108.2,regular
+2025-09-18,j.smith,49.14,regular
+2025-06-04,OfficeMart,688.86,regular
+2026-01-04,j.doe,47.32,expense claim
+2025-09-01,j.smith,266.12,regular
+2026-03-20,CloudServe,3406.35,regular
+2026-03-13,CaterCo,15.91,regular
+2026-04-03,CloudServe,87.84,regular
+2026-03-16,OfficeMart,302.0,regular
+2026-06-09,FleetFuel,215.7,regular
+2025-08-18,j.doe,482.09,expense claim
+2025-08-15,j.doe,35.01,expense claim
+2025-07-03,AdWorks,1595.12,regular
+2026-03-10,FleetFuel,3.5,regular
+2025-12-19,s.lee,63.44,regular
+2025-05-24,Apex Supplies,618.36,invoice
+2025-09-16,CaterCo,80.08,regular
+2025-11-07,j.smith,55.51,regular
+2026-01-19,CloudServe,7.05,regular
+2026-02-11,CloudServe,34.0,regular
+2026-03-13,CaterCo,7.5,regular
+2025-12-22,j.smith,22.45,regular
+2025-08-19,s.lee,56.92,regular
+2025-10-22,s.lee,54.71,regular
+2025-10-08,OfficeMart,181.15,regular
+2025-08-11,AdWorks,191.6,regular
+2025-08-28,OfficeMart,28.31,regular
+2026-04-22,Apex Supplies,574.15,invoice
+2026-02-23,AdWorks,37.81,regular
+2025-10-01,s.lee,176.36,regular
+2025-11-04,CloudServe,7.21,regular
+2026-04-01,CloudServe,32.81,regular
+2025-10-06,s.lee,31.58,regular
+2025-05-08,j.doe,25.55,expense claim
+2026-02-08,Apex Supplies,715.46,invoice
+2026-05-25,AdWorks,3.5,regular
+2026-04-07,j.smith,29.02,regular
+2025-08-13,s.lee,67.76,regular
+2025-10-17,FleetFuel,61.38,regular
+2026-01-28,m.khan,31.17,regular
+2026-06-02,CloudServe,18.58,regular
+2026-03-05,j.smith,21.56,regular
+2025-05-02,OfficeMart,36.84,regular
+2025-08-17,Apex Supplies,162.92,invoice
+2025-09-01,OfficeMart,20.96,regular
+2025-06-26,CaterCo,24.92,regular
+2025-09-19,s.lee,27.42,regular
+2025-07-11,j.smith,96.24,regular
+2025-10-25,Apex Supplies,505.04,invoice
+2025-09-09,s.lee,141.65,regular
+2025-07-08,Apex Supplies,854.22,invoice
+2026-01-15,CloudServe,9.16,regular
+2025-11-11,m.khan,29.03,regular
+2025-12-25,OfficeMart,3.5,regular
+2026-06-18,j.smith,50.13,regular
+2025-10-17,m.khan,73.14,regular
+2025-06-20,m.khan,23.22,regular
+2025-07-15,CaterCo,30.38,regular
+2026-03-26,j.doe,499.28,expense claim
+2025-12-12,OfficeMart,24.28,regular
+2025-05-15,CloudServe,266.51,regular
+2025-10-28,Apex Supplies,451.33,invoice
+2025-09-24,AdWorks,7.1,regular
+2025-08-21,CloudServe,47.63,regular
+2025-08-10,Apex Supplies,394.3,invoice
+2026-02-17,CaterCo,12.5,regular
+2026-05-26,AdWorks,101.14,regular
+2025-09-03,CloudServe,31.67,regular
+2026-02-02,CloudServe,214.68,regular
+2026-05-29,FleetFuel,94.69,regular
+2026-01-14,OfficeMart,68.9,regular
+2025-08-11,j.smith,183.83,regular
+2025-10-30,j.smith,81.4,regular
+2026-04-20,Apex Supplies,777.06,invoice
+2025-10-08,Apex Supplies,364.44,invoice
+2026-02-06,FleetFuel,150.11,regular
+2025-12-24,j.smith,21.03,regular
+2025-11-24,CaterCo,13.51,regular
+2026-01-11,Apex Supplies,642.92,invoice
+2026-05-11,AdWorks,57.19,regular
+2025-08-28,j.smith,141.29,regular
+2025-09-15,j.smith,73.6,regular
+2025-06-19,FleetFuel,46.84,regular
+2026-03-31,CloudServe,1852.79,regular
+2026-03-06,s.lee,71.84,regular
+2026-04-16,FleetFuel,280.39,regular
+2025-06-06,s.lee,114.06,regular
+2026-01-20,s.lee,24.19,regular
+2025-10-30,CaterCo,31.71,regular
+2026-03-06,j.doe,11.36,expense claim
+2026-05-02,Apex Supplies,550.95,invoice
+2025-10-09,OfficeMart,57.24,regular
+2025-10-21,AdWorks,69.64,regular
+2025-05-12,CloudServe,18.23,regular
+2026-01-16,FleetFuel,4.61,regular
+2025-11-06,OfficeMart,203.2,regular
+2026-04-28,CloudServe,76.43,regular
+2026-03-05,CloudServe,44.3,regular
+2025-06-23,CaterCo,216.13,regular
+2025-05-14,Apex Supplies,893.53,invoice
+2026-03-03,m.khan,53.83,regular
+2026-05-29,CaterCo,21.92,regular
+2025-08-22,CaterCo,49.65,regular
+2026-02-19,FleetFuel,117.39,regular
+2026-04-26,j.doe,40.51,expense claim
+2025-08-28,s.lee,9.34,regular
+2025-06-24,OfficeMart,1023.94,regular
+2026-05-11,Apex Supplies,186.45,invoice
+2025-11-05,CaterCo,364.14,regular
+2026-04-24,CaterCo,150.76,regular
+2026-02-19,m.khan,4.11,regular
+2025-09-18,FleetFuel,27.81,regular
+2026-05-08,CloudServe,744.81,regular
+2026-04-23,j.doe,26.85,expense claim
+2025-09-12,s.lee,93.53,regular
+2025-10-17,OfficeMart,27.91,regular
+2026-05-01,FleetFuel,71.74,regular
+2025-09-16,CaterCo,216.8,regular
+2025-10-22,AdWorks,70.94,regular
+2025-09-13,Apex Supplies,749.85,invoice
+2025-08-01,m.khan,205.7,regular
+2025-08-12,FleetFuel,22.39,regular
+2025-10-20,CloudServe,14.43,regular
+2025-10-01,s.lee,1337.16,regular
+2025-11-10,AdWorks,346.67,regular
+2025-11-11,OfficeMart,830.84,regular
+2025-12-01,OfficeMart,16.71,regular
+2026-06-08,OfficeMart,6.28,regular
+2025-10-13,AdWorks,52.58,regular
+2026-02-19,AdWorks,6.9,regular
+2025-08-29,j.smith,16.39,regular
+2025-11-13,CloudServe,20.23,regular
+2026-05-28,FleetFuel,374.68,regular
+2025-09-18,CloudServe,18.32,regular
+2025-07-21,s.lee,18.5,regular
+2026-01-13,Apex Supplies,180.06,invoice
+2025-09-04,s.lee,57.7,regular
+2025-05-15,m.khan,50.25,regular
+2026-05-06,OfficeMart,3893.62,regular
+2025-06-12,OfficeMart,60.71,regular
+2025-11-12,CaterCo,37.33,regular
+2025-07-15,j.doe,491.15,expense claim
+2026-06-03,AdWorks,7.2,regular
+2025-12-04,s.lee,185.51,regular
+2026-03-12,CaterCo,15.18,regular
+2026-03-20,s.lee,3.5,regular
+2026-06-12,CloudServe,33.15,regular
+2025-10-07,OfficeMart,9.42,regular
+2025-11-27,j.smith,181.3,regular
+2025-08-27,Apex Supplies,464.88,invoice
+2026-03-24,m.khan,636.07,regular
+2026-06-18,j.smith,32.08,regular
+2025-12-11,j.smith,58.13,regular
+2026-03-23,CloudServe,67.82,regular
+2026-01-30,CaterCo,19.84,regular
+2026-01-02,j.smith,44.79,regular
+2026-05-27,AdWorks,40.08,regular
+2026-05-15,CaterCo,38.35,regular
+2025-07-10,CloudServe,9.11,regular
+2025-05-08,s.lee,26.62,regular
+2026-03-19,s.lee,27.68,regular
+2026-01-05,Apex Supplies,474.21,invoice
+2026-06-18,OfficeMart,13.06,regular
+2025-08-25,m.khan,8.67,regular
+2026-04-27,CaterCo,209.24,regular
+2025-08-28,CaterCo,1473.59,regular
+2025-10-23,CloudServe,77.94,regular
+2025-09-12,j.doe,183.06,expense claim
+2025-06-12,j.smith,304.39,regular
+2026-02-18,FleetFuel,7.23,regular
+2025-09-12,CaterCo,13.85,regular
+2025-09-14,Apex Supplies,189.78,invoice
+2026-01-15,OfficeMart,80.93,regular
+2025-11-13,j.doe,49.11,expense claim
+2025-11-18,CaterCo,95.73,regular
+2025-12-03,m.khan,98.96,regular
+2026-02-23,m.khan,9.42,regular
+2026-04-17,m.khan,6.29,regular
+2026-01-10,Apex Supplies,815.1,invoice
+2026-02-25,Apex Supplies,452.39,invoice
+2025-09-04,OfficeMart,192.24,regular
+2025-08-28,AdWorks,160.82,regular
+2025-08-08,FleetFuel,446.47,regular
+2026-01-19,j.smith,96.47,regular
+2025-11-10,m.khan,44.2,regular
+2026-05-04,OfficeMart,46.61,regular
+2025-08-31,Apex Supplies,119.47,invoice
+2025-07-16,AdWorks,168.5,regular
+2025-06-26,s.lee,3.71,regular
+2025-11-27,Apex Supplies,977.28,invoice
+2026-03-17,s.lee,39.27,regular
+2026-04-16,s.lee,106.72,regular
+2026-04-02,Apex Supplies,304.84,invoice
+2026-03-17,FleetFuel,138.04,regular
+2025-10-30,m.khan,26.27,regular
+2026-02-17,CaterCo,1240.0,event catering
+2025-11-01,Apex Supplies,703.35,invoice
+2026-01-20,m.khan,126.92,regular
+2025-07-17,OfficeMart,5.47,regular
+2026-03-02,OfficeMart,48.64,regular
+2025-06-17,CaterCo,30.42,regular
+2026-06-09,CloudServe,10.86,regular
+2025-07-03,CloudServe,268.8,regular
+2026-05-11,OfficeMart,96.12,regular
+2025-11-24,j.smith,116.71,regular
+2026-01-01,j.smith,384.68,regular
+2026-01-15,j.smith,190.8,regular
+2026-03-05,AdWorks,110.48,regular
+2026-02-13,AdWorks,406.18,regular
+2025-06-27,AdWorks,17.27,regular
+2025-11-21,CaterCo,158.25,regular
+2026-03-16,CaterCo,128.97,regular
+2025-06-06,m.khan,14.96,regular
+2025-08-04,j.doe,481.74,expense claim
+2026-01-01,AdWorks,195.11,regular
+2025-11-04,FleetFuel,38.64,regular
+2025-11-25,s.lee,83.94,regular
+2025-12-05,Apex Supplies,487.02,invoice
+2026-03-17,AdWorks,102.84,regular
+2025-10-10,CloudServe,71.64,regular
+2025-10-08,j.doe,490.4,expense claim
+2026-04-10,FleetFuel,750.39,regular
+2025-12-29,FleetFuel,16.41,regular
+2026-02-12,m.khan,100.99,regular
+2026-05-14,Apex Supplies,620.26,invoice
+2025-08-13,FleetFuel,122.2,regular
+2026-01-22,CaterCo,15.75,regular
+2026-05-13,j.doe,92.06,expense claim
+2025-07-11,AdWorks,517.3,regular
+2025-10-01,CloudServe,80.26,regular
+2026-02-23,Apex Supplies,782.52,invoice
+2026-03-12,AdWorks,201.77,regular
+2025-10-13,FleetFuel,726.47,regular
+2025-08-22,CaterCo,7.51,regular
+2025-08-15,m.khan,16.49,regular
+2025-07-07,m.khan,188.78,regular
+2025-09-03,s.lee,27.23,regular
+2026-02-05,Apex Supplies,245.07,invoice
+2025-09-07,Apex Supplies,787.71,invoice
+2026-01-15,Apex Supplies,825.78,invoice
+2026-05-05,CaterCo,432.97,regular
+2025-09-30,OfficeMart,161.74,regular
+2025-09-29,s.lee,97.76,regular
+2026-04-02,CaterCo,75.27,regular
+2026-05-22,s.lee,54.37,regular
+2026-03-20,j.smith,30.47,regular
+2026-05-01,s.lee,32.17,regular
+2026-01-15,s.lee,4.44,regular
+2026-06-02,FleetFuel,40.1,regular
+2025-06-12,m.khan,43.1,regular
+2025-05-28,OfficeMart,871.94,regular
+2025-08-29,m.khan,35.2,regular
+2026-01-02,FleetFuel,404.97,regular
+2025-11-07,Apex Supplies,252.04,invoice
+2025-09-29,m.khan,21.09,regular
+2025-08-13,FleetFuel,85.65,regular
+2025-05-22,OfficeMart,157.19,regular
+2025-07-07,AdWorks,119.12,regular
+2025-07-11,CloudServe,106.98,regular
+2025-10-10,s.lee,9.23,regular
+2026-04-09,j.smith,113.98,regular
+2026-06-24,j.doe,50.46,expense claim
+2025-07-10,s.lee,240.53,regular
+2026-06-09,m.khan,426.21,regular
+2026-02-27,j.smith,499.79,regular
+2026-02-13,j.smith,47.87,regular
+2026-02-27,j.smith,136.16,regular
+2026-01-22,FleetFuel,1180.58,regular
+2026-05-29,OfficeMart,35.59,regular
+2025-05-23,FleetFuel,211.43,regular
+2026-06-22,m.khan,39.63,regular
+2025-12-08,j.smith,9.26,regular
+2025-09-25,s.lee,14.08,regular
+2025-08-28,OfficeMart,65.42,regular
+2026-05-06,FleetFuel,179.39,regular
+2026-01-24,Apex Supplies,944.61,invoice
+2025-11-07,j.smith,232.76,regular
+2026-03-12,j.smith,108.03,regular
+2026-02-25,s.lee,189.37,regular
+2025-06-04,AdWorks,726.71,regular
+2025-07-31,CloudServe,116.01,regular
+2026-05-20,OfficeMart,74.48,regular
+2025-09-30,s.lee,281.55,regular
+2025-09-11,AdWorks,46.86,regular
+2025-12-09,AdWorks,99.99,regular
+2025-05-01,OfficeMart,45.96,regular
+2025-05-04,Apex Supplies,679.58,invoice
+2025-05-07,FleetFuel,19.23,regular
+2025-11-17,CaterCo,44.24,regular
+2025-09-22,FleetFuel,25.95,regular
+2026-05-28,CaterCo,103.51,regular
+2025-10-17,OfficeMart,3.5,regular
+2026-05-04,j.smith,1734.92,regular
+2026-02-27,FleetFuel,88.65,regular
+2025-10-23,OfficeMart,216.71,regular
+2026-05-27,FleetFuel,24.61,regular
+2025-06-25,j.smith,170.39,regular
+2025-10-22,CaterCo,8.86,regular
+2026-01-09,m.khan,49.01,regular
+2025-11-06,OfficeMart,55.29,regular
+2025-05-22,OfficeMart,9.69,regular
+2025-11-08,Apex Supplies,123.45,invoice
+2026-04-09,OfficeMart,304.72,regular
+2025-10-24,CloudServe,13.39,regular
+2026-01-07,s.lee,9.71,regular
+2025-09-18,OfficeMart,76.65,regular
+2026-02-06,CaterCo,1091.63,regular
+2025-09-04,CloudServe,40.19,regular
+2026-01-06,AdWorks,48.74,regular
+2026-04-29,CloudServe,51.12,regular
+2025-07-09,AdWorks,2263.04,regular
+2025-10-22,m.khan,15.54,regular
+2025-05-17,j.doe,21.41,expense claim
+2025-10-29,FleetFuel,47.88,regular
+2026-04-24,CloudServe,256.65,regular
+2025-08-07,CloudServe,504.3,regular
+2026-03-23,j.smith,109.97,regular
+2026-03-05,Apex Supplies,475.36,invoice
+2026-02-11,m.khan,177.86,regular
+2025-11-04,Apex Supplies,289.53,invoice
+2026-02-06,m.khan,428.41,regular
+2026-03-19,CloudServe,98.5,regular
+2025-11-06,CaterCo,3.5,regular
+2025-09-05,AdWorks,40.21,regular
+2025-07-09,FleetFuel,13.31,regular
+2026-01-29,m.khan,1512.66,regular
+2025-12-18,j.smith,94.32,regular
+2026-05-16,Apex Supplies,999.44,invoice
+2025-11-11,AdWorks,43.15,regular
+2025-12-08,s.lee,4.34,regular
+2025-08-15,j.smith,297.11,regular
+2025-05-26,CaterCo,282.1,regular
+2025-09-13,j.doe,490.92,expense claim
+2025-06-24,Apex Supplies,599.31,invoice
+2025-08-09,Apex Supplies,519.55,invoice
+2026-05-19,CaterCo,3.5,regular
+2026-02-12,Apex Supplies,247.71,invoice
+2025-10-20,m.khan,118.43,regular
+2025-06-13,j.smith,33.42,regular
+2025-06-25,OfficeMart,10.24,regular
+2025-05-27,FleetFuel,138.87,regular
+2026-06-09,s.lee,17.26,regular
+2026-01-16,m.khan,212.89,regular
+2025-05-08,s.lee,74.44,regular
+2026-02-19,AdWorks,64.6,regular
+2026-04-23,FleetFuel,18.41,regular
+2025-09-12,OfficeMart,201.77,regular
+2025-05-18,Apex Supplies,621.69,invoice
+2025-07-04,CaterCo,103.49,regular
+2025-05-01,CaterCo,83.67,regular
+2025-05-29,CaterCo,9.17,regular
+2026-02-20,CloudServe,216.25,regular
+2025-10-23,s.lee,92.72,regular
+2025-12-31,CaterCo,11.68,regular
+2025-12-04,s.lee,205.41,regular
+2025-06-03,FleetFuel,811.79,regular
+2026-03-12,OfficeMart,31.39,regular
+2025-12-03,CaterCo,383.57,regular
+2025-11-14,CloudServe,36.25,regular
+2025-11-17,AdWorks,4.04,regular
+2025-10-16,j.smith,106.3,regular
+2025-07-31,OfficeMart,353.52,regular
+2025-05-01,FleetFuel,89.68,regular
+2026-03-05,m.khan,20.2,regular
+2026-05-26,CloudServe,140.47,regular
+2025-07-08,Apex Supplies,935.48,invoice
+2025-08-17,j.doe,489.05,expense claim
+2025-08-19,Apex Supplies,326.34,invoice
+2025-09-18,AdWorks,3.5,regular
+2026-06-10,s.lee,85.47,regular
+2025-09-29,j.smith,31.54,regular
+2026-01-23,FleetFuel,38.97,regular
+2025-07-15,CaterCo,90.74,regular
+2025-06-06,CaterCo,66.98,regular
+2025-07-31,AdWorks,381.05,regular
+2026-04-02,CloudServe,11.84,regular
+2025-10-03,OfficeMart,244.6,regular
+2025-05-02,OfficeMart,15.54,regular
+2025-09-29,CaterCo,49.44,regular
+2026-01-29,CaterCo,23.28,regular
+2025-08-18,j.smith,40.5,regular
+2025-06-02,Apex Supplies,110.98,invoice
+2026-04-16,CloudServe,5.97,regular
+2025-07-09,j.doe,483.79,expense claim
+2025-06-05,CloudServe,23.01,regular
+2026-03-06,FleetFuel,223.49,regular
+2025-07-22,m.khan,17.41,regular
+2025-07-17,s.lee,146.74,regular
+2026-03-05,AdWorks,61.59,regular
+2026-01-01,s.lee,61.45,regular
+2025-11-28,Apex Supplies,928.97,invoice
+2025-10-01,OfficeMart,27.06,regular
+2026-01-22,m.khan,8.6,regular
+2026-04-07,s.lee,191.05,regular
+2026-04-09,AdWorks,57.57,regular
+2026-01-09,s.lee,53.33,regular
+2026-02-17,j.doe,5.64,expense claim
+2026-02-13,m.khan,15.98,regular
+2025-07-09,j.doe,496.43,expense claim
+2026-02-12,FleetFuel,71.96,regular
+2026-04-15,m.khan,51.93,regular
+2025-06-29,j.doe,489.58,expense claim
+2025-08-11,j.doe,24.69,expense claim
+2025-09-29,s.lee,225.6,regular
+2025-10-30,OfficeMart,54.49,regular
+2025-10-07,j.doe,51.64,expense claim
+2026-06-09,m.khan,6.24,regular
+2025-09-18,FleetFuel,748.66,regular
+2025-09-02,Apex Supplies,731.74,invoice
+2025-08-07,CaterCo,3.5,regular
+2026-05-09,j.doe,12.16,expense claim
+2025-09-03,CaterCo,1240.0,event catering
+2026-01-12,j.smith,37.48,regular
+2025-08-26,FleetFuel,52.96,regular
+2025-10-03,s.lee,31.9,regular
+2025-09-08,m.khan,1312.72,regular
+2026-06-19,m.khan,167.51,regular
+2025-07-14,m.khan,73.54,regular
+2025-08-01,m.khan,196.4,regular
+2025-08-15,j.doe,46.2,expense claim
+2026-03-05,AdWorks,11.26,regular
+2026-02-19,FleetFuel,51.48,regular
+2025-05-16,s.lee,42.73,regular
+2025-12-24,AdWorks,83.75,regular
+2025-11-27,CaterCo,112.9,regular
+2026-02-26,s.lee,55.42,regular
+2026-02-25,CaterCo,67.04,regular
+2025-08-26,m.khan,76.6,regular
+2025-06-06,OfficeMart,527.61,regular
+2026-05-19,AdWorks,644.26,regular
+2026-04-12,j.doe,483.65,expense claim
+2026-03-06,m.khan,65.49,regular
+2026-04-09,j.doe,490.85,expense claim
+2026-04-08,OfficeMart,198.12,regular
+2026-04-21,s.lee,608.34,regular
+2026-01-22,j.smith,220.65,regular
+2025-11-04,OfficeMart,427.84,regular
+2025-10-07,Apex Supplies,319.27,invoice
+2026-02-20,OfficeMart,47.78,regular
+2026-04-24,CloudServe,24.55,regular
+2025-11-24,s.lee,557.25,regular
+2025-11-06,CloudServe,128.32,regular
+2025-08-09,Apex Supplies,117.94,invoice
+2025-08-19,j.smith,97.17,regular
+2026-06-01,Apex Supplies,229.23,invoice
+2025-07-11,AdWorks,530.62,regular
+2025-07-31,j.smith,77.83,regular
+2026-06-12,j.smith,853.9,regular
+2025-06-03,m.khan,6.32,regular
+2026-02-02,j.smith,166.08,regular
+2025-06-10,AdWorks,313.69,regular
+2025-07-25,FleetFuel,48.5,regular
+2025-11-14,CaterCo,156.38,regular
+2025-12-08,FleetFuel,67.28,regular
+2026-04-03,AdWorks,122.51,regular
+2026-04-01,m.khan,585.6,regular
+2026-03-16,OfficeMart,175.24,regular
+2025-12-01,Apex Supplies,847.52,invoice
+2026-04-02,s.lee,244.3,regular
+2025-06-18,AdWorks,56.48,regular
+2026-03-06,FleetFuel,107.46,regular
+2025-07-31,AdWorks,397.12,regular
+2025-08-19,AdWorks,18.52,regular
+2026-03-06,j.smith,121.54,regular
+2026-03-28,Apex Supplies,315.97,invoice
+2025-10-17,s.lee,70.28,regular
+2025-09-11,CloudServe,143.77,regular
+2025-08-12,m.khan,158.67,regular
+2025-07-03,Apex Supplies,795.64,invoice
+2025-09-03,CaterCo,35.27,regular
+2025-06-17,OfficeMart,22.71,regular
+2025-11-07,FleetFuel,29.41,regular
+2025-06-24,AdWorks,103.21,regular
+2026-06-03,AdWorks,116.08,regular
+2025-11-24,Apex Supplies,593.51,invoice
+2026-02-03,OfficeMart,103.74,regular
+2025-08-14,m.khan,24.03,regular
+2025-12-10,CloudServe,9.93,regular
+2026-01-30,CaterCo,102.17,regular
+2026-04-21,j.smith,11.11,regular
+2025-12-29,AdWorks,825.99,regular
+2025-07-16,FleetFuel,14.65,regular
+2025-07-11,j.smith,105.84,regular
+2026-05-29,CaterCo,59.33,regular
+2025-05-29,FleetFuel,73.2,regular
+2026-03-11,CaterCo,75.69,regular
+2026-04-16,CaterCo,523.27,regular
+2025-12-15,FleetFuel,23.92,regular
+2026-06-08,AdWorks,258.39,regular
+2026-06-08,Apex Supplies,734.04,invoice
+2025-10-20,CaterCo,7.47,regular
+2025-11-07,m.khan,14.87,regular
+2025-10-02,AdWorks,102.87,regular
+2025-11-13,j.doe,487.19,expense claim
+2026-04-03,CloudServe,22.94,regular
+2026-05-22,CloudServe,147.33,regular
+2026-04-13,OfficeMart,66.97,regular
+2026-03-14,Apex Supplies,265.02,invoice
+2026-04-03,FleetFuel,3.5,regular
+2026-02-05,OfficeMart,24.35,regular
+2025-06-06,AdWorks,29.75,regular
+2025-09-14,Apex Supplies,585.1,invoice
+2025-12-03,j.smith,129.04,regular
+2026-04-02,s.lee,33.63,regular
+2026-05-28,m.khan,33.08,regular
+2025-05-20,j.smith,70.55,regular
+2025-05-01,AdWorks,8.08,regular
+2025-09-10,Apex Supplies,509.17,invoice
+2025-06-06,j.smith,91.95,regular
+2026-01-22,FleetFuel,82.25,regular
+2026-05-14,CloudServe,4.07,regular
+2025-10-20,CloudServe,3.5,regular
+2026-05-08,s.lee,6.95,regular
+2025-09-03,j.smith,81.12,regular
+2025-06-17,j.doe,6.43,expense claim
+2025-12-24,OfficeMart,8.78,regular
+2025-08-05,CaterCo,48.9,regular
+2026-01-07,s.lee,100.09,regular
+2026-04-23,CloudServe,26.42,regular
+2026-03-09,j.smith,118.85,regular
+2026-03-16,m.khan,146.52,regular
+2025-07-15,CloudServe,26.66,regular
+2025-08-05,FleetFuel,58.29,regular
+2026-06-05,AdWorks,73.59,regular
+2025-07-03,FleetFuel,122.57,regular
+2025-09-22,CloudServe,886.21,regular
+2025-09-05,j.smith,92.36,regular
+2026-02-03,s.lee,51.65,regular
+2025-12-02,s.lee,14.81,regular
+2025-09-11,s.lee,35.08,regular
+2026-01-30,j.smith,364.99,regular
+2025-10-24,FleetFuel,143.71,regular
+2025-09-12,CloudServe,126.4,regular
+2025-10-24,m.khan,8.23,regular
+2025-12-05,FleetFuel,19.47,regular
+2025-11-06,OfficeMart,873.35,regular
+2025-09-12,OfficeMart,80.03,regular
+2025-07-23,s.lee,113.04,regular
+2025-11-27,AdWorks,34.52,regular
+2026-04-27,CloudServe,127.37,regular
+2026-03-03,FleetFuel,43.29,regular
+2026-04-26,Apex Supplies,566.08,invoice
+2025-12-05,j.smith,25.88,regular
+2025-11-07,CloudServe,826.03,regular
+2026-06-05,OfficeMart,6.3,regular
+2026-01-22,FleetFuel,245.72,regular
+2025-05-12,CloudServe,58.1,regular
+2026-04-13,FleetFuel,82.9,regular
+2026-06-08,s.lee,53.71,regular
+2025-12-15,OfficeMart,35.14,regular
+2026-03-27,OfficeMart,152.52,regular
+2025-08-11,AdWorks,28.95,regular
+2025-07-08,CaterCo,18.62,regular
+2025-07-04,s.lee,91.14,regular
+2025-09-11,FleetFuel,750.08,regular
+2025-11-28,m.khan,136.79,regular
+2025-12-18,OfficeMart,151.74,regular
+2025-08-18,j.doe,30.35,expense claim
+2025-11-11,CloudServe,1037.61,regular
+2025-08-22,CaterCo,5.69,regular
+2026-02-26,m.khan,417.12,regular
+2026-04-30,AdWorks,51.17,regular
+2026-05-01,AdWorks,32.79,regular
+2026-01-29,CloudServe,432.72,regular
+2025-05-26,CloudServe,100.93,regular
+2025-07-08,CloudServe,38.94,regular
+2025-09-02,AdWorks,3.78,regular
+2025-10-09,m.khan,19.98,regular
+2025-06-24,Apex Supplies,714.85,invoice
+2025-12-12,FleetFuel,301.56,regular
+2026-01-19,j.smith,418.57,regular
+2025-08-13,s.lee,110.69,regular
+2025-06-09,Apex Supplies,970.44,invoice
+2026-01-28,AdWorks,12.84,regular
+2026-06-23,AdWorks,31.37,regular
+2026-04-17,m.khan,14.36,regular
+2025-11-04,AdWorks,23.46,regular
+2026-03-07,Apex Supplies,616.5,invoice
+2026-02-02,OfficeMart,1692.2,regular
+2026-04-03,CloudServe,8.67,regular
+2026-03-12,Apex Supplies,530.85,invoice
+2025-05-15,CloudServe,11.18,regular
+2025-08-04,CloudServe,58.19,regular
+2025-07-04,FleetFuel,12.05,regular
+2025-07-24,m.khan,17.15,regular
+2026-06-05,s.lee,31.41,regular
+2026-01-08,OfficeMart,50.62,regular
+2026-04-21,j.smith,87.96,regular
+2025-12-11,AdWorks,498.11,regular
+2026-03-05,m.khan,138.92,regular
+2025-06-27,OfficeMart,7.48,regular
+2026-02-19,s.lee,31.85,regular
+2025-11-21,FleetFuel,188.45,regular
+2026-04-08,j.doe,479.48,expense claim
+2026-01-01,j.smith,108.5,regular
+2025-10-10,CloudServe,59.49,regular
+2025-08-28,s.lee,29.33,regular
+2026-06-11,AdWorks,16.1,regular
+2026-01-09,Apex Supplies,778.73,invoice
+2025-08-28,j.smith,38.43,regular
+2026-02-24,s.lee,86.99,regular
+2025-12-12,m.khan,255.55,regular
+2026-06-08,CaterCo,73.76,regular
+2025-12-15,AdWorks,21.37,regular
+2026-02-09,s.lee,79.62,regular
+2026-03-18,AdWorks,20.48,regular
+2025-10-30,CaterCo,35.24,regular
+2026-06-12,AdWorks,3.5,regular
+2025-10-22,j.doe,10.02,expense claim
+2026-05-14,FleetFuel,32.55,regular
+2025-05-08,s.lee,4.43,regular
+2025-05-08,m.khan,415.05,regular
+2025-07-03,s.lee,11.14,regular
+2025-06-12,s.lee,91.45,regular
+2025-06-23,FleetFuel,389.67,regular
+2025-05-08,j.smith,75.7,regular
+2026-05-22,OfficeMart,13.95,regular
+2026-01-30,CaterCo,57.76,regular
+2026-04-03,j.smith,91.13,regular
+2025-09-05,AdWorks,8.26,regular
+2026-03-27,s.lee,41.75,regular
+2025-10-07,OfficeMart,248.74,regular
+2026-06-19,OfficeMart,153.08,regular
+2025-09-19,Apex Supplies,517.53,invoice
+2025-07-23,Apex Supplies,963.85,invoice
+2026-02-13,CaterCo,56.85,regular
+2025-06-09,Apex Supplies,512.92,invoice
+2026-05-27,m.khan,15.07,regular
+2025-10-21,Apex Supplies,371.65,invoice
+2025-09-02,j.doe,12.96,expense claim
+2025-07-18,FleetFuel,7.45,regular
+2025-12-26,AdWorks,5712.4,regular
+2026-05-24,Apex Supplies,903.53,invoice
+2025-11-28,Apex Supplies,437.75,invoice
+2025-08-20,s.lee,27.35,regular
+2025-07-24,FleetFuel,103.48,regular
+2025-10-04,Apex Supplies,163.68,invoice
+2025-06-19,s.lee,557.2,regular
+2025-11-06,s.lee,48.38,regular
+2026-03-03,FleetFuel,208.36,regular
+2025-09-09,CloudServe,54.24,regular
+2025-09-22,j.smith,136.42,regular
+2026-01-16,s.lee,268.72,regular
+2026-04-16,s.lee,273.28,regular
+2026-03-27,CloudServe,222.92,regular
+2026-05-20,s.lee,107.32,regular
+2025-06-05,AdWorks,271.09,regular
+2025-07-17,AdWorks,20.43,regular
+2026-03-03,CaterCo,5.31,regular
+2025-11-13,m.khan,40.8,regular
+2026-01-16,Apex Supplies,184.1,invoice
+2025-10-22,Apex Supplies,246.2,invoice
+2025-07-10,CaterCo,239.96,regular
+2026-03-03,j.smith,61.85,regular
+2026-03-10,m.khan,45.69,regular
+2026-01-31,j.doe,5.61,expense claim
+2025-09-25,AdWorks,101.77,regular
+2025-09-18,CloudServe,190.6,regular
+2025-09-18,Apex Supplies,478.67,invoice
+2025-10-23,CaterCo,8.51,regular
+2026-02-13,Apex Supplies,211.27,invoice
+2026-02-27,j.doe,479.29,expense claim
+2025-10-27,CaterCo,95.02,regular
+2025-09-08,CloudServe,95.94,regular
+2025-07-28,OfficeMart,157.55,regular
+2025-09-01,OfficeMart,162.26,regular
+2025-06-12,CaterCo,77.75,regular
+2026-02-04,j.smith,6.39,regular
+2026-04-29,m.khan,19.5,regular
+2025-09-11,CaterCo,1240.0,event catering
+2025-07-10,Apex Supplies,299.1,invoice
+2026-06-12,FleetFuel,27.66,regular
+2025-06-19,s.lee,133.27,regular
+2026-01-12,s.lee,58.85,regular
+2025-06-16,FleetFuel,28.04,regular
+2026-03-27,CaterCo,46.73,regular
+2025-07-13,Apex Supplies,739.02,invoice
+2025-05-06,Apex Supplies,263.44,invoice
+2025-11-02,j.doe,481.44,expense claim
+2025-09-25,Apex Supplies,480.27,invoice
+2026-02-26,OfficeMart,29.06,regular
+2026-01-27,Apex Supplies,250.09,invoice
+2025-07-28,s.lee,641.38,regular
+2025-09-23,j.doe,18.44,expense claim
+2025-05-22,s.lee,260.69,regular
+2026-05-26,j.doe,480.53,expense claim
+2025-06-09,CaterCo,54.74,regular
+2026-06-15,FleetFuel,18.64,regular
+2025-05-28,OfficeMart,103.43,regular
+2025-10-16,AdWorks,422.68,regular
+2026-01-30,CaterCo,125.66,regular
+2025-11-20,j.smith,766.25,regular
+2025-12-08,m.khan,76.45,regular
+2025-11-04,s.lee,369.28,regular
+2026-02-12,OfficeMart,130.61,regular
+2026-05-19,j.smith,15.44,regular
+2026-04-27,m.khan,23.24,regular
+2025-12-10,OfficeMart,63.18,regular
+2025-12-04,CaterCo,119.04,regular
+2025-07-23,OfficeMart,16.86,regular
+2025-07-28,s.lee,87.65,regular
+2026-06-08,AdWorks,118.36,regular
+2025-09-21,Apex Supplies,493.38,invoice
+2025-06-26,FleetFuel,65.55,regular
+2026-02-26,AdWorks,128.08,regular
+2026-02-13,CaterCo,55.5,regular
+2025-08-11,OfficeMart,3.5,regular
+2025-11-27,j.smith,33.95,regular
+2025-06-12,OfficeMart,353.4,regular
+2026-03-12,FleetFuel,21.47,regular
+2025-08-26,FleetFuel,41.61,regular
+2025-05-26,AdWorks,1873.65,regular
+2025-08-28,s.lee,3.5,regular
+2025-10-10,s.lee,345.75,regular
+2026-02-19,FleetFuel,143.65,regular
+2025-05-02,CloudServe,42.23,regular
+2026-01-29,m.khan,57.78,regular
+2025-08-17,j.doe,492.58,expense claim
+2025-11-23,j.doe,493.79,expense claim
+2026-05-08,OfficeMart,111.75,regular
+2025-07-16,j.smith,61.2,regular
+2025-11-10,AdWorks,78.7,regular
+2026-03-05,j.smith,822.31,regular
+2025-09-19,CaterCo,237.95,regular
+2026-05-22,s.lee,234.38,regular
+2025-12-12,m.khan,20.84,regular
+2025-05-19,CloudServe,54.25,regular
+2025-11-06,m.khan,46.14,regular
+2026-06-09,j.smith,19.75,regular
+2026-05-15,OfficeMart,5.13,regular
+2026-06-05,Apex Supplies,759.19,invoice
+2026-03-28,Apex Supplies,792.94,invoice
+2025-06-24,OfficeMart,41.0,regular
+2025-09-02,CaterCo,379.46,regular
+2026-04-10,AdWorks,213.01,regular
+2025-10-14,Apex Supplies,413.62,invoice
+2025-12-04,OfficeMart,32.48,regular
+2025-06-06,j.smith,190.69,regular
+2026-06-16,FleetFuel,18.85,regular
+2026-04-20,CaterCo,475.97,regular
+2026-02-23,CloudServe,169.98,regular
+2026-03-01,Apex Supplies,482.99,invoice
+2026-05-16,Apex Supplies,791.71,invoice
+2025-07-30,Apex Supplies,970.52,invoice
+2025-10-24,m.khan,51.14,regular
+2025-05-14,OfficeMart,9.82,regular
+2026-01-03,j.doe,202.15,expense claim
+2025-06-19,CaterCo,957.26,regular
+2025-06-12,OfficeMart,40.11,regular
+2025-06-06,OfficeMart,984.49,regular
+2025-06-29,Apex Supplies,986.2,invoice
+2025-05-26,CloudServe,14.43,regular
+2025-10-26,Apex Supplies,522.52,invoice
+2025-11-14,CloudServe,21.99,regular
+2026-01-05,Apex Supplies,251.01,invoice
+2025-11-25,j.smith,130.72,regular
+2025-12-19,AdWorks,212.55,regular
+2025-12-10,AdWorks,6.76,regular
+2025-07-31,CloudServe,148.23,regular
+2026-06-24,s.lee,60.4,regular
+2026-06-04,m.khan,524.34,regular
+2026-06-12,Apex Supplies,642.44,invoice
+2026-03-06,Apex Supplies,569.64,invoice
+2025-09-22,j.doe,15.42,expense claim
+2025-10-21,Apex Supplies,256.5,invoice
+2025-08-21,m.khan,3.54,regular
+2026-06-03,OfficeMart,24.13,regular
+2026-01-29,m.khan,9.09,regular
+2025-10-21,CaterCo,325.63,regular
+2026-03-16,Apex Supplies,642.3,invoice
+2025-07-04,CloudServe,317.48,regular
+2025-05-29,CloudServe,93.13,regular
+2025-09-04,AdWorks,111.09,regular
+2025-12-01,Apex Supplies,712.75,invoice
+2025-09-25,CloudServe,42.37,regular
+2025-05-10,Apex Supplies,980.58,invoice
+2025-10-30,AdWorks,63.87,regular
+2025-09-04,AdWorks,53.41,regular
+2026-06-14,Apex Supplies,725.03,invoice
+2025-10-07,s.lee,73.35,regular
+2026-03-11,j.doe,30.44,expense claim
+2025-06-23,s.lee,75.8,regular
+2026-01-21,CaterCo,5.54,regular
+2025-12-04,OfficeMart,618.09,regular
+2026-04-16,s.lee,340.85,regular
+2025-06-05,m.khan,31.79,regular
+2025-12-30,CloudServe,353.04,regular
+2026-05-14,FleetFuel,53.55,regular
+2025-09-17,CloudServe,449.8,regular
+2025-12-15,m.khan,26.68,regular
+2025-08-13,FleetFuel,30.21,regular
+2025-12-30,CaterCo,52.53,regular
+2025-12-11,CloudServe,41.59,regular
+2026-06-03,FleetFuel,73.49,regular
+2025-07-17,s.lee,77.86,regular
+2025-07-16,s.lee,67.25,regular
+2025-05-18,Apex Supplies,348.97,invoice
+2025-05-11,Apex Supplies,306.32,invoice
+2026-03-13,FleetFuel,82.11,regular
+2025-11-16,Apex Supplies,404.31,invoice
+2025-09-19,CaterCo,13.11,regular
+2025-05-02,m.khan,109.25,regular
+2026-04-09,m.khan,92.39,regular
+2026-02-18,OfficeMart,24.56,regular
+2025-07-18,s.lee,157.8,regular
+2025-09-05,j.smith,106.83,regular
+2025-09-18,s.lee,10.47,regular
+2025-06-21,Apex Supplies,514.89,invoice
+2025-07-16,s.lee,228.41,regular
+2026-04-21,m.khan,206.02,regular
+2026-01-14,CaterCo,300.89,regular
+2026-02-11,FleetFuel,130.13,regular
+2025-05-04,j.doe,499.33,expense claim
+2025-10-21,j.smith,16.45,regular
+2026-05-06,OfficeMart,22.54,regular
+2026-03-19,j.doe,481.34,expense claim
+2025-06-05,j.smith,240.39,regular
+2025-11-18,AdWorks,10.19,regular
+2026-05-10,Apex Supplies,226.17,invoice
+2026-01-30,AdWorks,33.86,regular
+2026-04-21,CaterCo,507.29,regular
+2026-03-16,CloudServe,36.61,regular
+2025-07-21,m.khan,56.83,regular
+2026-04-09,OfficeMart,18.16,regular
+2025-05-01,j.smith,428.61,regular
+2025-11-19,j.doe,51.65,expense claim
+2025-10-23,OfficeMart,34.98,regular
+2025-09-17,CaterCo,114.33,regular
+2025-08-12,OfficeMart,45.37,regular
+2025-10-16,AdWorks,32.28,regular
+2025-10-11,Apex Supplies,388.41,invoice
+2026-05-21,m.khan,218.16,regular
+2025-10-30,CloudServe,66.21,regular
+2025-05-06,FleetFuel,21.94,regular
+2026-03-27,j.smith,44.88,regular
+2025-08-04,Apex Supplies,399.53,invoice
+2025-10-23,CloudServe,49.74,regular
+2026-05-22,AdWorks,112.42,regular
+2026-03-17,Apex Supplies,162.97,invoice
+2026-05-14,AdWorks,34.56,regular
+2025-10-09,m.khan,3.6,regular
+2025-05-16,CloudServe,9.27,regular
+2025-08-12,s.lee,99.05,regular
+2025-08-11,OfficeMart,900.81,regular
+2025-07-10,CaterCo,45.59,regular
+2026-03-24,FleetFuel,80.57,regular
+2025-06-16,m.khan,115.07,regular
+2025-11-27,m.khan,36.67,regular
+2025-05-05,AdWorks,24.77,regular
+2025-06-18,Apex Supplies,961.25,invoice
+2025-11-12,Apex Supplies,474.3,invoice
+2025-06-04,FleetFuel,37.65,regular
+2025-11-05,m.khan,1975.51,regular
+2025-08-25,CaterCo,221.66,regular
+2025-06-19,m.khan,65.11,regular
+2025-05-30,m.khan,137.22,regular
+2025-05-06,OfficeMart,3.5,regular
+2025-10-09,CaterCo,557.53,regular
+2026-06-18,FleetFuel,64.55,regular
+2025-10-31,OfficeMart,199.45,regular
+2026-01-14,s.lee,91.25,regular
+2026-02-19,CloudServe,74.97,regular
+2025-10-30,OfficeMart,69.61,regular
+2026-01-01,m.khan,114.75,regular
+2025-05-27,FleetFuel,66.26,regular
+2026-01-14,FleetFuel,21.66,regular
+2026-02-12,j.smith,36.87,regular
+2026-04-28,OfficeMart,91.92,regular
+2025-06-10,FleetFuel,12.94,regular
+2025-12-25,s.lee,67.76,regular
+2026-06-17,Apex Supplies,699.26,invoice
+2026-02-19,FleetFuel,24.18,regular
+2026-03-30,FleetFuel,180.5,regular
+2025-05-23,m.khan,39.98,regular
+2025-12-22,Apex Supplies,350.63,invoice
+2025-09-25,j.doe,490.44,expense claim
+2026-05-29,j.doe,497.68,expense claim
+2025-07-24,AdWorks,70.25,regular
+2025-05-29,CaterCo,132.57,regular
+2025-05-24,Apex Supplies,300.68,invoice
+2026-05-29,s.lee,252.87,regular
+2025-06-13,m.khan,13.33,regular
+2025-10-20,FleetFuel,37.51,regular
+2025-07-03,FleetFuel,6.89,regular
+2025-09-24,CloudServe,5.61,regular
+2026-03-30,m.khan,46.77,regular
+2025-07-11,FleetFuel,62.78,regular
+2026-03-23,CloudServe,111.22,regular
+2025-12-15,j.doe,12.19,expense claim
+2026-05-22,OfficeMart,62.07,regular
+2026-02-20,CloudServe,450.07,regular
+2026-01-21,Apex Supplies,526.64,invoice
+2026-04-01,CloudServe,243.25,regular
+2025-11-28,m.khan,51.23,regular
+2026-05-28,CloudServe,93.81,regular
+2025-05-19,OfficeMart,126.87,regular
+2025-08-07,OfficeMart,194.05,regular
+2025-09-10,CloudServe,235.16,regular
+2026-02-27,CloudServe,134.05,regular
+2026-04-12,Apex Supplies,411.08,invoice
+2026-03-30,FleetFuel,97.37,regular
+2025-08-17,j.doe,96.64,expense claim
+2026-05-25,Apex Supplies,140.92,invoice
+2025-10-09,CaterCo,20.24,regular
+2025-08-13,m.khan,325.34,regular
+2026-05-22,Apex Supplies,853.49,invoice
+2026-04-09,OfficeMart,187.92,regular
+2025-12-02,Apex Supplies,699.46,invoice
+2026-05-21,CaterCo,320.27,regular
+2025-07-03,CaterCo,166.42,regular
+2025-07-08,OfficeMart,15.66,regular
+2026-01-16,j.smith,200.09,regular
+2026-06-23,m.khan,11.72,regular
+2026-04-15,Apex Supplies,256.37,invoice
+2026-06-11,s.lee,190.42,regular
+2026-01-01,OfficeMart,112.63,regular
+2026-02-18,CloudServe,9.7,regular
+2026-03-02,m.khan,102.12,regular
